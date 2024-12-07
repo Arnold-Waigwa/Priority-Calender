@@ -38,6 +38,6 @@ Efficiently manage tasks and optimize your schedule using a **Greedy Algorithm**
 ## Getting Started  
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/task-prioritization-scheduler.git
+   git clone https://github.com/Arnold-Waigwa/priority-scheduler.git
 cd task-prioritization-scheduler
 python3 gui.py
